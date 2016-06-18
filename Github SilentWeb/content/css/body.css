@@ -1,0 +1,15 @@
+body {
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+background-color: #ccc;
+}
+
+#content {
+    background-color: white;
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    font-family: "Century Gothic", Times, serif;
+    text-align: center;
+/* Remove this line to add color at text! *color: white;
+}
